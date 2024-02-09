@@ -35,8 +35,8 @@ After many years working in the film industry, I have decided to make a change i
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/osaga-fu"><img src="https://github-readme-stats.vercel.app/api?username=osaga-fu&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=64748b&icon_color=444e59&bg_color=0f172a&hide_border=true&show_icons=true" alt="osaga-fu's GitHub stats" /></a>
+![osaga-fu's Stats](https://github-readme-stats.vercel.app/api?username=osaga-fu&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
 
-<a href="https://github.com/osaga-fu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osaga-fu&langs_count=10&title_color=64748b&text_color=64748b&icon_color=444e59&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![osaga-fu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osaga-fu&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
 
-<a href="http://www.github.com/osaga-fu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=osaga-fu&stroke=64748b&background=0f172a&ring=64748b&fire=64748b&currStreakNum=64748b&currStreakLabel=64748b&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+![osaga-fu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=osaga-fu&theme=synthwave&hide_border=true)
