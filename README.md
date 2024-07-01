@@ -4,7 +4,7 @@ After many years working in the film industry, I have decided to make a change i
 
 *   🌍  I'm based in Asturias, Spain
 *   ✉️  You can contact me at [olaya.saga@gmail.com](mailto:olaya.saga@gmail.com)
-*   🧠  I'm learning in FactoriaF5 - Fullstack Web Development Bootcamp (850h)
+*   🧠  I'm currently working at Capgemini as a Fullstack Developer.
 *   🤝  Ready to collaborate on projects that help me grow and continue learning.
 
 ### Skills 
