@@ -4,7 +4,7 @@ After many years working in the film industry, I have decided to make a change i
 
 *   🌍  I'm based in Asturias, Spain
 *   ✉️  You can contact me at [olaya.saga@gmail.com](mailto:olaya.saga@gmail.com)
-*   🧠  I'm currently working at Capgemini as a Fullstack Developer.
+*   🧠  I'm currently working at Capgemini as a Software Engineer.
 *   🤝  Ready to collaborate on projects that help me grow and continue learning.
 
 ### Skills 
