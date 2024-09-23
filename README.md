@@ -1,4 +1,4 @@
-![Olaya Sánchez](./github_banner.png)
+![Olaya Sánchez](./githubbanner.png)
 
 After many years working in the film industry, I have decided to make a change in my career path, finding in the field of programming a new avenue to express myself and continue to grow professionally.
 
