@@ -31,7 +31,9 @@ After many years working in the film industry, I have decided to make a change i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/>
-	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/soap.png" alt="SOAP" title="SOAP"/>
+  <img width="12" />
+  <img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/soap.png" alt="SOAP" title="SOAP"/>
+  <img width="12" />
 </div>
 
 ### Tools
